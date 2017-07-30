@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeployDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# github-server
+Calling my github followers API with a angular app
+>>>>>>> 157858747e4c25e538e9011d9b1f234fd374c478
